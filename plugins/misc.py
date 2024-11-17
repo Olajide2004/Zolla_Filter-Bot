@@ -1,6 +1,8 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @olajidesherif
+# Subscribe YouTube Channel For Amazing Bot @osunhive
+# Ask Doubt on telegram @olajidesherif# Don't Remove Credit @olajidesherif
+# Subscribe YouTube Channel For Amazing Bot @osunhive
+# Ask Doubt on telegram @olajidesherif
 
 import os, logging, time
 from pyrogram import Client, filters, enums
